@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/donut-glazey/static/js/main.5b7443a3.chunk.js",
+    "main.js.map": "/donut-glazey/static/js/main.5b7443a3.chunk.js.map",
+    "runtime-main.js": "/donut-glazey/static/js/runtime-main.0b6d9d90.js",
+    "runtime-main.js.map": "/donut-glazey/static/js/runtime-main.0b6d9d90.js.map",
+    "static/js/2.f33db8b3.chunk.js": "/donut-glazey/static/js/2.f33db8b3.chunk.js",
+    "static/js/2.f33db8b3.chunk.js.map": "/donut-glazey/static/js/2.f33db8b3.chunk.js.map",
+    "static/js/3.bbc73151.chunk.js": "/donut-glazey/static/js/3.bbc73151.chunk.js",
+    "static/js/3.bbc73151.chunk.js.map": "/donut-glazey/static/js/3.bbc73151.chunk.js.map",
+    "index.html": "/donut-glazey/index.html",
+    "static/js/2.f33db8b3.chunk.js.LICENSE.txt": "/donut-glazey/static/js/2.f33db8b3.chunk.js.LICENSE.txt",
+    "static/media/Donut.e935b228.jpg": "/donut-glazey/static/media/Donut.e935b228.jpg",
+    "static/media/Drink2.d39144c2.jpg": "/donut-glazey/static/media/Drink2.d39144c2.jpg",
+    "static/media/Drink3.b714ab44.jpg": "/donut-glazey/static/media/Drink3.b714ab44.jpg",
+    "static/media/Drink4.2a107ef7.jpg": "/donut-glazey/static/media/Drink4.2a107ef7.jpg",
+    "static/media/Feature.7a5a15c8.jpg": "/donut-glazey/static/media/Feature.7a5a15c8.jpg",
+    "static/media/Sweet-3.ad95a22d.jpg": "/donut-glazey/static/media/Sweet-3.ad95a22d.jpg",
+    "static/media/Sweet-4.33ef795f.jpg": "/donut-glazey/static/media/Sweet-4.33ef795f.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/donut-glazey/static/media/sweet-2.d5cf1ad2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b6d9d90.js",
+    "static/js/2.f33db8b3.chunk.js",
+    "static/js/main.5b7443a3.chunk.js"
+  ]
+}
